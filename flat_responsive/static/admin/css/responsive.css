@@ -597,6 +597,10 @@ input[type="submit"], button {
         max-width: 100%;
     }
 
+    .aligned .form-row select {
+        width: inherit;
+    }
+
     .aligned .checkbox-row {
         align-items: center;
     }
